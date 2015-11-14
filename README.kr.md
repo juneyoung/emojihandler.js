@@ -3,6 +3,8 @@ by <b>Juneyoung Oh</b><br>
 Writen in 12.NOV.15<br>
 <a href='README.md'>EN</a>
 
+[![DEMO VIDEO](/sample/demo.png)](/sample/demo.mp4 "DEMO VIDEO")
+
 이 프로젝트는 OSX 와 Windows 64bit 를 지원합니다.<br>
 Linux, Unix 와 32 bit 시스템에서는 아직 테스트 못해봤습니다 :-)<br>
 
