@@ -35,6 +35,9 @@ EMOJIHANDLER.addFileUrl('../data/sample.dictionary');
 ```
 EASY!
 
+## References
+<a href='_blank' onclick='javascript: window.open('http://www.unicode.org/reports/tr51/'); return false;'>Unicode byte codes and surrogates from unicode.org</a>
+
 ## History
 <ul>
   <li>12.NOV.15 - Very first distribution by Juneyoung Oh</li>
