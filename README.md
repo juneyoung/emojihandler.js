@@ -3,8 +3,8 @@ by <b>Juneyoung Oh</b><br>
 Writen in 12.NOV.15<br>
 <a href='README.kr.md'>KOR</a>
 
-<video src='/sample/demo.mp4'>
-</video>
+[![DEMO VIDEO](/sample/demo.png)](/sample/demo.mp4 "DEMO VIDEO")
+
 ~~Currently this project <b>only supports OSX.</b>~~<br>
 ~~Please, wait for other operating systems.~~<br>
 It supports OSX as well as Windows.<br>
