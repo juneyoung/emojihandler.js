@@ -28,7 +28,7 @@ A dictionary file looks like follow
 :D,\ud83d\ude03
 ```
 It has a ',' as a separator between key(what users are going to type) and value(unicode emoji surrogates).<br> 
-I made a sample for you "<a href= '/data/sample.dictionary'>Sample.dictionary</a>".<br>
+I made a sample for you "<a target='_blank' href= '/data/sample.dictionary'>Sample.dictionary</a>".<br>
 And you put a line of code right before `EMOJIHANDLER.start();`. The line is below.
 ``` javascript
 EMOJIHANDLER.addFileUrl('../data/sample.dictionary');
@@ -36,7 +36,7 @@ EMOJIHANDLER.addFileUrl('../data/sample.dictionary');
 EASY!
 
 ## References
-<a href='_blank' onclick='javascript: window.open('http://www.unicode.org/reports/tr51/'); return false;'>Unicode byte codes and surrogates from unicode.org</a>
+<a href='http://www.unicode.org/reports/tr51/' target='_blank'>Unicode byte codes and surrogates from unicode.org</a>
 
 ## History
 <ul>
