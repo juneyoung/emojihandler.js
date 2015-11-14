@@ -1,7 +1,7 @@
 # EmojiHandler 
 by <b>Juneyoung Oh</b><br>
 Writen in 12.NOV.15<br>
-<a ='README.kr.md'>KOR</a>
+<a href='README.kr.md'>KOR</a>
 
 ~~Currently this project <b>only supports OSX.</b>~~<br>
 ~~Please, wait for other operating systems.~~<br>
