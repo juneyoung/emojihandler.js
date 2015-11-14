@@ -108,6 +108,12 @@ emojiHandler.prototype.loadIOSEmoji = function(){
 				//poo 
 				, 'shit' : '\ud83d\udca9'
 				, '똥' : '\ud83d\udca9'
+				//wink
+				,';D':'\ud83d\ude09'
+				,';)':'\ud83d\ude09'
+				//kiss
+				,'love' : '\ud83d\udc8b'
+				,'pill' : '\ud83d\udc8a'	
 		};
 	}else{
 		this.emojiStore.osx = loadFile(this.fileUrl);
