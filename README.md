@@ -1,6 +1,7 @@
 # EmojiHandler 
 by <b>Juneyoung Oh</b><br>
 Writen in 12.NOV.15<br>
+<a ='README.kr.md'>KOR</a>
 
 ~~Currently this project <b>only supports OSX.</b>~~<br>
 ~~Please, wait for other operating systems.~~<br>
@@ -14,7 +15,7 @@ I did not test on Linux, Unix and 32 bits system :-)<br>
 	EMOJIHANDLER.start();
 ```
 ### Advanced : refering dictionary file.
-Caution : adding file only able since javascript security policy.<br>
+Caution : adding file system can not refer 'file:///', since javascript security policy.<br>
 (As you know native js can not access to local file system)
 ##### Requirements :
 - Dictionary file
